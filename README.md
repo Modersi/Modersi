@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My LinkedIn: https://www.linkedin.com/in/mykhailo-chernenko/
+
 <!--
 **Modersi/Modersi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
